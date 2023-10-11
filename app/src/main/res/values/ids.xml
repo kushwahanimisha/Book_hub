@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="framelayout" type="id">id/framelayout</item>
+    <item name="recyclerDashboard" type="id">id/recyclerDashboard</item>
+    <item name="txtBookAuthor" type="id">id/txtBookAuthor</item>
+    <item name="txtBookName" type="id">id/txtBookName</item>
+    <item name="llContent" type="id" ></item>
+    <item name="txtFavBookTitle" type="id" />
+</resources>

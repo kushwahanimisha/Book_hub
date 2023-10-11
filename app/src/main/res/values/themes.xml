@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookHub" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- noactionbar means no toolbar on the top of the screen -->
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.BookHub" parent="Base.Theme.BookHub" />
+
+    <color name="my_light_primary" />
+</resources>
